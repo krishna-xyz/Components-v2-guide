@@ -2,7 +2,7 @@
 
 [← Back to main guide](README.md)
 
-> Part of the LuxorX Development Components V2 guide • Support: [discord.gg/kaleshi](https://discord.gg/kaleshi)
+> Part of the LuxorX Development Components V2 guide • Support: [discord](https://discord.gg/bethakk)
 
 `ui.Container` is the visual "box" that everything else sits inside. It supports an optional `accent_color`, which renders as a thin colored bar on the left edge — the spiritual successor to `embed.color`.
 
