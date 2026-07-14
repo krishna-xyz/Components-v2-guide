@@ -1,6 +1,6 @@
 # Discord.py Components V2 — The LuxorX Guide
 
-> Guide by **krishna.xyz** • Dev House: **LuxorX Development** • Support: [discord.gg/kaleshi](https://discord.gg/kaleshi)
+> Guide by **krishna.xyz** • Dev House: **LuxorX Development** • Support: [discord](https://discord.gg/bethakk)
 
 Components V2 (CV2) is Discord's newer message layout system. Instead of stuffing everything into a single `embed`, you build a message out of stackable layout blocks — text, separators, sections, galleries, files, and action rows — and you get pixel-level control over how the final message reads on both desktop and mobile.
 
