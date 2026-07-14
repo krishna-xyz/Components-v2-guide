@@ -2,7 +2,7 @@
 
 [← Back to main guide](README.md)
 
-> Part of the LuxorX Development Components V2 guide • Support: [discord.gg/kaleshi](https://discord.gg/kaleshi)
+> Part of the LuxorX Development Components V2 guide • Support: [discord](https://discord.gg/bethakk)
 
 `ui.ActionRow` is the container for interactive elements inside CV2 — buttons or a single select menu live here, the same role `ui.View` rows played in classic components.
 
