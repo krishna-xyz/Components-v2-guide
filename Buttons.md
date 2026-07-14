@@ -2,7 +2,7 @@
 
 [← Back to main guide](README.md)
 
-> Part of the LuxorX Development Components V2 guide • Support: [discord.gg/kaleshi](https://discord.gg/kaleshi)
+> Part of the LuxorX Development Components V2 guide • Support: [discord](https://discord.gg/bethakk)
 
 Buttons in CV2 are the same `ui.Button` class you already know — the only difference is they're placed inside an `ui.ActionRow`, which itself sits inside a `Container`, instead of attaching directly to a `View`.
 
